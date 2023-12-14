@@ -1,7 +1,9 @@
+import Calculator from "./containers/calculator";
+
 function App() {
   return (
     <>
-      <div></div>
+      <Calculator />
     </>
   );
 }
