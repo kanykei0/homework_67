@@ -1,0 +1,57 @@
+.telephone {
+  max-width: 350px;
+  background-color: #555a60;
+  color: #e3e9ec;
+}
+
+.telephone_time {
+  font-size: 10px;
+}
+
+.calculator_result {
+  font-size: 70px;
+  color: #f4ab41;
+}
+
+.calculator_symbols {
+  color: #f4ab41;
+  letter-spacing: 4px;
+  font-size: 20px;
+}
+
+.calculator_symbol {
+  font-weight: bold;
+  border: none;
+  background-color: transparent;
+  color: inherit;
+  font-size: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.calculator_clear {
+  color: #f4ab41;
+}
+
+.calculator_operator {
+  color: #f4ab41;
+  background-color: rgba(244, 171, 65, 0.2);
+}
+
+.calculator_equal {
+  width: 190px;
+  border-radius: 60px;
+}
+
+.calculator_operation {
+  height: 150px;
+}
+
+.calculator_symbol:hover {
+  background-color: #4e5258;
+}
+
+.calculator_operator:hover {
+  background-color: rgba(244, 171, 65, 0.4);
+}
